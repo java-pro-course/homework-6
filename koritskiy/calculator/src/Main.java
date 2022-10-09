@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-    static int sum(int a, int b) {
+    static int sumOfTwoNumbers(int a, int b) {
         return a + b;
     }
 
@@ -12,6 +12,6 @@ public class Main {
         int a = in.nextInt();
         int b = in.nextInt();
 
-        System.out.println(sum(a, b));
+        System.out.println(sumOfTwoNumbers(a, b));
     }
 }
