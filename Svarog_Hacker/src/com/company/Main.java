@@ -84,7 +84,7 @@ public class Main {
     public static void main(String[] args) {
         String TextFromUser;
         System.out.println("================================================");
-        System.out.println("Пожалуйста, выберете что собираетесь сделать:  =");
+        System.out.println("Пожалуйста, выберите что собираетесь сделать:  =");
         System.out.println("/a - сложение                                  =");
         System.out.println("/s - вычитание                                 =");
         System.out.println("/m - умножение                                 =");
