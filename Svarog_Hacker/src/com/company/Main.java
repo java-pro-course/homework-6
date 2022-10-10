@@ -25,7 +25,7 @@ public class Main {
         System.out.println("============================================");
         int f = in.nextInt();
         int s = in.nextInt();
-        System.out.println("Ваш ответ: "+ (f+s));
+        System.out.println("Ваш ответ: "+ (f-s));
     }
 
     public static void m() {
