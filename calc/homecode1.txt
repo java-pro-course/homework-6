@@ -1,0 +1,56 @@
+import java.util.Scanner;
+
+public class Main{
+ 
+ 
+	public static void main(String[] args) {
+		
+		
+		Scanner in = new Scanner(System.in);
+		System.out.println("Для получения суммы напишите 1");
+		System.out.println("Для получения умножения напишите 2");
+		System.out.println("Для получения деления напишите 3");
+		System.out.println("Для получения вычитания напишите 4");
+		System.out.println("Система работает так: пишите 1 из 4 цифр а после этого пишите значения которые вам нужны");
+		int a = in.nextInt();
+		
+		if(a == 1) {
+		int b = in.nextInt();
+			
+		int c = in.nextInt();
+		System.out.println(b + c);
+		}
+		if(a == 2) {
+			int b = in.nextInt();
+			
+			int c = in.nextInt();
+			System.out.println(b * c);
+		
+		}
+		if(a == 3) {
+			int b = in.nextInt();
+			
+			int c = in.nextInt();
+			System.out.println(b / c);
+		
+		}
+		if(a == 4) {
+			int b = in.nextInt();
+			
+			int c = in.nextInt();
+			System.out.println(b - c);
+		
+		}
+		if(a > 5)
+		{
+			System.out.println("ERROR1");
+		}
+		
+		
+		
+		}
+				
+
+	}
+
+
