@@ -1,0 +1,26 @@
+[33mcommit e35ddaf47629bc598f392991482a96e9d538bbc5[m[33m ([m[1;36mHEAD -> [m[1;32mSvarog_Hacker[m[33m, [m[1;31morigin/xCrynge[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/Egor[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 4afb20e 551f5ed
+Author: koritskiy <55190193+koritskiy@users.noreply.github.com>
+Date:   Sun Oct 9 20:07:23 2022 +0300
+
+    Merge pull request #1 from java-pro-course/koritskiy
+    
+    Add sum function
+
+[33mcommit 551f5ed0dfabfff26cd5fd2436ae7a0b5ded9c17[m[33m ([m[1;31morigin/koritskiy[m[33m)[m
+Author: Корицкий Александр Юрьевич <AYKoritskiy@sberbank.ru>
+Date:   Sun Oct 9 20:06:51 2022 +0300
+
+    Fix comments
+
+[33mcommit 86ba8838b19a9416c65283278f2ab2bd72e3bd45[m
+Author: Корицкий Александр Юрьевич <AYKoritskiy@sberbank.ru>
+Date:   Sun Oct 9 19:53:17 2022 +0300
+
+    Add sum function
+
+[33mcommit 4afb20e5ae78a8f9b2e3deb6fc23e502812f0c8f[m
+Author: Корицкий Александр Юрьевич <AYKoritskiy@sberbank.ru>
+Date:   Sun Oct 9 19:18:32 2022 +0300
+
+    Add homework for students
